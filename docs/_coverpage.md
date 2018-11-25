@@ -1,5 +1,5 @@
 # Wie wird ein Projekt verwaltet.
-- 
+
 Name | Martrikelnummer 
 --- | ---
 Karl Neitmann | 1151024
