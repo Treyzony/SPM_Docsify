@@ -9,8 +9,16 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
+      notFoundPage: '_404.html',
+      auto2top: true,
+      basePath: '/docs/',
+      executeScript: true,
+      loadNavbar: true,
       loadSidebar: true,
-      coverpage: true
+      coverpage: true,
+      name: 'docsify',
+      subMaxLevel: 2,
+      mergeNavbar: true,
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
