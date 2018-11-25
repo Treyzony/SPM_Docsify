@@ -1,28 +1,46 @@
-- Getting started
+- Marketing
 
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [Projekt Marketing](projekt.md)
+  - [Stakeholder Management](stakeholder.md)
 
-- Customization
+- Qualität
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
+  - [Qualitätsmanagement](qualitat.md)
+  - [Scorecards und Reports](scorecards.md)
+  - [Requirements Engineering](requirement.md)
+  - [Compliance in und von IT-Projekten](compliance.md)
+  - [Praktiken erfolgreicher Projekte](praktiken.md)
 
-- Guide
+- Prä-Planung
 
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode(PWA)](pwa.md)
-  - [Server-Side Rendering(SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
+  - [IT-Projekte strukturieren und planen](planen.md)
+  - [Personalplanung](personal.md)
+  - [Teamentwicklung](teamentwicklung.md)
+  - [Aufwandsabschätzung](aufwand.md)
+  - [Risikomanagement](risiko.md)
+  - [global verteilte ??? ](global.md)
+  - [Agiles IT-Projektmanagement](agil.md)
+  - [Prozessorientiertes Projektmanagement PRINCE2](prozessorientiert.md)
 
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+- Planung aktuell zum Projekt
+
+  - [Kalkulation](kalkulation.md)
+  - [Multiprojektmanagement](multiprojekt.md)
+  - [Erfolgreicher Abschluss](abschluss.md)
+  
+- Information
+
+  - [Projektskizzen, Projektanträge und Projektportfoliomanagement](projektskizzen.md)
+  - [Statusüberwachung](statusuberwachung.md)
+  - [Informations und Wissensmanagement](information.md)
+  
+- Metaprojekt und Techniken
+
+  - [Eigene Teamentwicklung](eigeneTeamentwicklung.md)
+  - [Meilensteine](meilensteine.md)
+  - [Git](git.md)
+  
+- Fazit und Abschluss
+
+  - [Meilenstein Einhaltung](meilensteinEinhaltung.md)
+  - [Umgang mit den Werkzeugen](wekzeuge.md)
