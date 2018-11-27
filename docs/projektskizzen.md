@@ -1,1 +1,1 @@
-# Projektskizzen, Projektantr�ge und Projektportfoliomanagement
+﻿# Projektskizzen, Projektanträge und Projektportfoliomanagement

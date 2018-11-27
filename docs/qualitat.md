@@ -1,1 +1,1 @@
-# Qualit�tsmanagement
+﻿# Qualitätsmanagement

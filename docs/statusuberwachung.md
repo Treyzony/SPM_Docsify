@@ -1,1 +1,1 @@
-# Status�berwachung
+﻿# Statusüberwachung
