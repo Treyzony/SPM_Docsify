@@ -1,3 +1,3 @@
 ﻿# Projekt Marketing
  
- ![Alternativer Text](/_images/marketing/dive.jpg)
+ ![Alternativer Text](_images/marketing/dive.jpg)
