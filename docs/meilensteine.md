@@ -20,3 +20,5 @@ KW | Datum | FH | Aufgabe | Zeitaufwand (in Std.)
 Die Meilensteine für das Projekt wurden, bis auf die 2 Treffen in der 44. und 45. KW, im vorfeld geplant. Es wurde sich dafür entschieden die Meilensteine im Wochenrythmus analog zu den Besprechungen in der Fachhochschule vorgenommen. 
 
 Die KW und das Datum sind für die Zeitliche Identifizierung des Meilensteins. Die Spalte FH beschreibt die Aufgabe, welche an der Fachhochschule erledigt wurde und die Aufgabe ist die zu dieser Woche zu erledigende Aufgabe der Einzelnen Team mitglieder. Der Zeitaufwand ist hier pro Person zu sehen.
+
+Die Arbeit der einzelnen Gruppenmitgliedern wurde, mittels einer Markdown Tabelle, in den Projekt Tagebüchern festgehalten.
