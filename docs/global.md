@@ -121,3 +121,4 @@ sehr gering sind. Zum Abschluss nun noch eine Liste zu Regionen der Welt, mit
 deren Vor- und Nachteilen.
 
 ![Global verteilte IT-Projekte Abbildung 20.3](/_images/praplanung/globale_Regionsbewertung.jpg)
+Global verteilte IT-Projekte Abbildung 20.3
