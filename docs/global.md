@@ -1,4 +1,4 @@
-﻿# global verteilte ???
+﻿# Global verteilte IT-Projekte
  Projekte und Unternehmensaufgaben global zu verteilen bietet einige 
 Wettbewerbsvorteile. Dies muss allerdings schon im Vorfeld geplant sein, um auf die
 vielen Fallstricke, die sich ergeben korrekt zu reagieren. Wo dabei die Risiken und
