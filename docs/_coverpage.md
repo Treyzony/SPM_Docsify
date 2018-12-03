@@ -6,6 +6,6 @@
 - Jonas Vom Braucke | 1161915
 - Alexander Nolting | XXXXX
 - Yannic Döll | 1157815
-- Waldemar Reger | XXXXX
+- Waldemar Reger | 1161887
 
 [Getting Started](#docsify)
