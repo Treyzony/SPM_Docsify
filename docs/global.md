@@ -120,5 +120,4 @@ deutscher Sicht gute Kandidaten, da gerade Entfernung und Zeitzonenunterschied
 sehr gering sind. Zum Abschluss nun noch eine Liste zu Regionen der Welt, mit 
 deren Vor- und Nachteilen.
 
-<add Bild_Datei globale_Regionsbewertung.png>
-<Global verteilte IT-Projekte Abbildung 20.3>
+![Global verteilte IT-Projekte Abbildung 20.3](/_images/praplanung/globale_Regionsbewertung.jpg)
