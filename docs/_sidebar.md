@@ -17,7 +17,7 @@
   - [Personalplanung](personal.md)
   - [Teamentwicklung](teamentwicklung.md)
   - [Aufwandsabschätzung](aufwand.md)
-  - [global verteilte](global.md)
+  - [Global verteilte IT-Projekte](global.md)
   - [Agiles IT-Projektmanagement](agil.md)
   - [Risikomanagement](risiko.md)
   - [IT-Projekte erfolgreich managen](erfolgreich.md)
