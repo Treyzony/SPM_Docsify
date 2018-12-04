@@ -3,7 +3,7 @@
 Viele IT-Projekte werden Aufgrund von Ressourcenmangel, keine Energie auf das Projekt oder fehlende Bereitschaft nicht richtig Abgeschlossen oder gar nicht Abgeschlossen. Aufgrund dessen gibt es gefahren was passieren kann, z.B das die Projektarbeit sich verzögert, man die Akzeptanz des Auftraggebers verliert oder wichtige Erfahrungen verloren gehen.
 Für diesen Fall gibt es eine Grafik die das Problem behandelt:
 
-//BILD PROJEKTABSCHLUSSFADEN
+![Projektabschluss richtig managen](_images/planung/Erfolgricher_Abschluss_s4_Projektabnahme.png)
 
 Bei der Projektabnahme bzw. Produktübergabe hilft es einem ein Abnahmetest durchzuführen. Es werden Fehler erfasst, bewertet und geeignete Maßnahmen eingeleitet. Desweiterem wird ein Protokoll durchgeführt was die Einzeltest, Ergebnisse, Testumwelt, Testläufe und aufgetretene Fehler mit Ursachenanalyse protokolliert.
 Eine zweite variante ist die Projektabschlusssitzung. Hier wird diskutiert und geprüft ob die Schwerpunkte erreicht worden sind.
@@ -12,11 +12,11 @@ Die letzte Variante ist das Abnahmeprotokoll. Ein Protokoll wird dem Auftraggebe
 Nach der Projektabnahme wird eine Projektabschlussanalyse durchgeführt. Man unterscheidet zwischen interne und externe Projektabschlussanalyse. Die interne Projektabschlussanalyse ist eine Abweichungsanalyse, also wie sehr sind die Projekt- und Produktparameter vom Plan abgewichen. Bei der externe Projektabschlussanalyse wird die Kundenzufriedenheit festgestellt und analysiert.
 Desweiterem kann man einem Fragenbogen Teammitglieder nach der Projekterfahrung befragen:
 
-//BILD FRAGEBOGEN
+![Beispiel Fragebogen](_images/planung/Erfolgricher_Abschluss_s9_Feedbackbogen.png)
 
 Danach wird ein Projektabschlussbericht erstellt, indem für den Auftraggeber eine Bilanz zu dem IT-Projekt dargestellt wird. Mögliche gliederungsvorgaben könnten sein: Formal und inhaltliche Standards, Präzise Angaben der laufenden Kosten, Einvernehmlich von einem Projektbeauftragtem und Projektleiter erfasst und unterschrieben. Ein Mögliches Inhaltsverzeichnis könnte so aussehen:
 
-//BILD PROEJKTFADEN
+![Pfaden](_images/planung/Erfolgricher_Abschluss_s12_Proejektfaden.png)
 
 Merkmale einer guten Projektdokumentation sind: klar und einheitlich strukturiert, verfügt über Referenzen, Begriffserklärungen, Beispiele, Grafiken … usw., ausgewiesenen Autor, unkompliziert geschrieben und jedes Teammitglied trägt dazu bei.
 
