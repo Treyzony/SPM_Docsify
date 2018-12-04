@@ -7,9 +7,9 @@ sondern auch in deren Möglichkeiten ein bestimmtes Ziel zu erreichen. So ist ei
 Teamharmonie genauso anzustreben wie die Fachliche Kompetenz. Um eine
 Teamentwicklung zu gewährleisten gibt es fünf Phasen, die sich über die Jahre etabliert
 haben.
-![Alternativer Text](/pfad/zum/Tabelle_19.3_Team.png)
-![Alternativer Text](/pfad/zum/Tabelle_teil2.png)
-![Alternativer Text](/pfad/zum/Tabelle_teil3.png)
+![Alternativer Text](_images/praplanung/Tabelle_19.3_Team.png)
+![Alternativer Text](_images/praplanung/Tabelle_teil2.png)
+![Alternativer Text](_images/praplanung/Tabelle_teil3.png)
 In diesen unterschiedlichen Phasen wird der Teamleiter unterschiedlich gefordert.
 Im Laufe einer Teamentwicklung kann es zu verschiedenen Störungen kommen. Diese
 Störungen sind z.B. Interesselosigkeit der Teammitglieder bei der Bearbeitung der
@@ -30,11 +30,11 @@ angestrebten Ergebnisse aus. Ziel der Projektleitung muss es deshalb sein ein po
 Innovationsklima zu schaffen. Dies erhöht nicht nur dich Produktionsqualität, sondern es
 wird auch in gewissen Maßen an Zeit gespart. Hierfür gibt es so genannte "Goldene
 Innovationsregeln".
-![Alternativer Text](/pfad/zum/Tabelle_19.4_Team_1.png)
-![Alternativer Text](/pfad/zum/Tabelle_Team_ding.png)
+![Alternativer Text](_images/praplanung/Tabelle_19.4_Team_1.png)
+![Alternativer Text](_images/praplanung/Tabelle_Team_ding.png)
 Um die Qualität der Projektteamarbeit zu evaluieren und zu verbessern kann ein Fragebogen
 an die Projektteilnehmer verteilt werden.
-![Alternativer Text](/pfad/zum/Abbildung_19.3_Team.png)
+![Alternativer Text](_images/praplanung/Abbildung_19.3_Team.png)
 Anhand einer solchen Umfrage können bei negativen Werten entsprechend Maßnahmen
 getroffen werden. Zudem können so Anregungen zur Optimierung gefunden werden.
 Damit möglich Probleme gar nicht erst auftreten, ist es die Aufgabe des IT-Projektleiters,
