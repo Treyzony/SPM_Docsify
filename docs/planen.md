@@ -16,7 +16,7 @@ Projektverlauf positiv beeinflussen. Es ist also sinnvoll sich mit entsprechende
 und Qualität der Planung zu widmen, da so die Projektlaufzeit verkürzt und die
 Produktlebensdauer evtl. sogar erhöht wird. Zudem ist die Planung zu kontrollieren, um
 frühe Fehler zu erkennen.
-![Alternativer Text](/pfad/zum/Abbildung_6.1_IT_planen.png)
+![Alternativer Text](_images/praplanung/Abbildung_6.1_IT_planen.png)
 Aus der Praxis lässt sich festhalten, dass wenn ein Projekt mit Aufwand geplant wurde, lässt
 eine drastische Zeiteinsparung in der Abarbeitung des Projekts finden.
 Grundsätzliches zur Projektplanung
@@ -59,7 +59,7 @@ Projekteinteilung kann man in verschiedenen Arten modellieren, daraus entstehen 
 die verschiedenen Phasenmodelle wie das Wasserfallmodell oder das V-Modell. Die zweite
 Einteilung beschäftigt sich mit dem Projektmanagement. Unabhängig vom Projektinhalt
 fallen bei jedem Projekt nahezu identische Aufgaben im Projektmanagement an.
-![Alternativer Text](/pfad/zum/Abbildung_6.3_IT_planen.png)
+![Alternativer Text](_images/praplanung/Abbildung_6.3_IT_planen.png)
 Dabei befassen sich die einzelnen mit Stages (gelb) mit verschiedenen Fragen:
 - Idee = ist die Idee brauchbar
 - Prae-Launch = Sollen wir oder sollen wir nicht?
@@ -81,8 +81,8 @@ Menschenverstand, der einen dabei hilft sein Projekt richtig zu modellieren. In 
 wird die erste Methode mit der Dritten vermischt, so entsteht ein Plan mit Struktur und
 erfüllbaren Zielen. Ein Beispiel eines solchen Plans ist das Modell für
 Entwicklungsvorhaben nach Saynisch.
-![Alternativer Text](/pfad/zum/Tabelle_6.1_IT_planen_1)
-![Alternativer Text](/pfad/zum/Tabelle_6.1_IT_planen_2)
+![Alternativer Text](_images/praplanung/Tabelle_6.1_IT_planen_1)
+![Alternativer Text](_images/praplanung/Tabelle_6.1_IT_planen_2)
 Für die Planung eines konkreten IT-Projekts bei dem nicht auf eines der "klassischen"
 Modelle zurückgegriffen werden soll, gilt es sich an folgenden Punkten zu orientieren, um
 ein für sich geeignetes Modell zu entwickeln. Jede zu erstellender Phase braucht einen
@@ -103,7 +103,7 @@ selektiert, geordnet und in unter Oberpunkten zusammengefasst.
 Nachdem die Struktur festgelegt ist bildet man Arbeitspakete. Hierbei wird lediglich
 bestimmt welche Aufgaben zusammengehören und wo sie sich abgrenzen. Eine Darstellung
 des Projekt-Struktur-Plans kann in einem Baum erfolgen.
-![Alternativer Text](/pfad/zum/Abbildung_6.9_IT_planen.png)
+![Alternativer Text](_images/praplanung/Abbildung_6.9_IT_planen.png)
 Als dritten Planungsschritt werden Ablauf und Termine berücksichtigt. Da der Projekt-
 Struktur-Plan keine Zeitlichen Vorgaben aufweist werden diese nun erfasst. Es wird ein
 Ablaufplan erstellt, welcher die Fragen beantwortet: Welche Arbeitstakte können
@@ -111,12 +111,12 @@ unabhängig voneinander durchgeführt werden?, Welche Arbeitstakte sind unmittel
 Voraussetzung für andere Arbeitstakte?, Welche Arbeitstakte können unmittelbar folgen?,
 Welche Aktivitäten lassen sich parallel ausführen?. Die entstehende Ausarbeitung kann man
 in einem Netzplan darstellen.
-![Alternativer Text](/pfad/zum/Abbildung_6.11_IT_planen.png)
+![Alternativer Text](_images/praplanung/Abbildung_6.11_IT_planen.png)
 Da die Aufgaben teilweise schwierig zu bewerten sind, gibt es eine Aufwandsabschätzung.
 Anhand der entstandenen Schätzungen kann dann überprüft werden ob Termine realistisch
 sind. Des Weiteren können Meilensteine erstellt werden, die es gilt einzuhalten. Die Zeitliche
 Gestaltung lässt sich in einem Diagramm darstellen.
-![Alternativer Text](/pfad/zum/Abbildung_6.14_IT_planen.png)
+![Alternativer Text](_images/praplanung/Abbildung_6.14_IT_planen.png)
 Ein weiteres Thema des Planens von Projekten ist das Puffermanagement. Es ist eins der
 heikelsten Themen und wird häufig aus Zeitmangel ignoriert. Dazu kommt das es schwer ist
 Pufferzeit zu verkaufen, da kein Auftraggeber hören will das er Zeit zu bezahlen hat die als
@@ -126,7 +126,7 @@ Pufferzeit mit einzuteilen. Diese einzuplanende Pufferzeit hängt natürlich vom
 Projektes ab. Aus verschiedenen Erfahrungen in der Praxis sagt man das die Pufferzeit eine
 Größenordnung von etwa 30% erreicht.
 Die bisherige Projektplanung wird hier einmal grafisch dargestellt.
-![Alternativer Text](/pfad/zum/Abbildung_6.16_IT_planen.png)
+![Alternativer Text](_images/praplanung/Abbildung_6.16_IT_planen.png)
 Der Ablauf- und Terminplan, Ressourcenplan und der Kostenplan sind Pläne die man nicht
 zu 100% vorhersagen kann da hier die meisten Variablen auftreten. Im Ressourcenplan
 werden wie erwartet alle benötigen Ressourcen, die für die Realisierung des Projekts
@@ -151,7 +151,8 @@ Je komplexer das IT-Projekt ist desto mehr unbekannte Faktoren gibt es. Dementsp
 ist die Erstellung einer Risikoanalyse sinnvoll. Dabei kann man nach einem einfachen
 Schema vorgehen. Beim Projektauftrag werden zunächst die möglichen Risken identifiziert.
 Nachdem man alle Risiken identifiziert hat werden diese Risiken bewertet. Hat man die
-Risiken bewertet kann man dafür Maßnahmen oder Notfallpläne entwerfen.![Alternativer Text](/pfad/zum/Abbildung_6.22_IT_planung.png)
+Risiken bewertet kann man dafür Maßnahmen oder Notfallpläne entwerfen.
+![Alternativer Text](_images/praplanung/Abbildung_6.22_IT_planung.png)
 Bei der Planung eines IT-Projektes gibt es aus der Praxis einen einfachen Tipp: KISS (keep it
 simple, stupid). Wenn man seine Planung einfach hält kann das mehrere Vorteile bieten.
 Zum einen vereinfacht eine einfachere Planung, dass Verständnis für den gesamten Plan. Des
