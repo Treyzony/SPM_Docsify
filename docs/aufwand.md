@@ -75,7 +75,7 @@ Die David-Consulting-Gruppe hat Produktivitätsdaten in Function-Points gesammel
 ist zu sehen, dass die Produktivität zwischen 9 und 25 Function-Points pro Personenmonat
 variiert. Also haben die Tätigkeiten schonmal von Grund auf andere Faktoren die zu
 Messung mit einbezogen werden müssen.
-![Alternativer Text](/pfad/zum/Tabelle_9.1_Aufwand.png)
+![Alternativ Text](_images/praplanung/Tabelle_9.1_Aufwand.png)
 Festzuhalten ist das die Messung einer Person gar nicht so einfach zu erfassen ist, es hängt
 zum einen von der geforderten Tätigkeit aber auch von der Person selber ab.
 Was bleibt, ist die Frage, wie man die Größe eines IT-Vorhabens misst. Um eine
@@ -94,17 +94,17 @@ Aufwand des Projekts abzuschätzen. Es entstanden mehrere Formeln wie Aufwand = 
 Bei dem Beispiel steht 2,4 für standalone, monoitgische Anwendungen. Im laufe der Zeit
 veränderte sich die Formel für verschieden Bedürfnisse. So entstand der so genannte
 COCOMO-II-Schätzugsalgorithmus, doch auch dieser war zu ungenau.
-![Alternativer Text](/pfad/zum/Abbildung_9.3_Aufwand.png)
+![Alternativer Text](_images/praplanung/Abbildung_9.3_Aufwand.png)
 Nachdem die Probleme der Codemessung erkannt wurden, entschied man sich für eine
 Schätzung mit Function-Points. Das Prinzip dabei war Punkte für bestimmte
 Datenbewegungstypen zu vergeben. Doch heute schein diese Methode rätselhast da Ausgabe
 nicht gleich Ausgabe ist.
-![Alternativer Text](/pfad/zum/Abbildung_9.4_Aufwand.png)
+![Alternativer Text](_images/praplanung/Abbildung_9.4_Aufwand.png)
 Die Schätzung nach Data-Points entstand in den 1980er-Jahren. Da in dieser Zeit
 Datenbanken immer interessanter wurden musste man diese mit in die Aufwandsabschätzung
 mit einbeziehen. Es entstand das folgende Data-Point-methoden Modell von Harry M.
 Sneed.
-![Alternativer Text](/pfad/zum/Abbildung_9.5_Aufwand.png)
+![Alternativer Text](_images/praplanung/Abbildung_9.5_Aufwand.png)
 Diese Methode ging von Informationen aus, die man dem Datenmodell entnehmen konnte.
 Sichtbar waren die Datenentitäten und zumindest ein Teil ihrer Attribute, die Schlüssel der
 Datenentitäten, die Beziehung der Datenentitäten untereinander und die Sichten auf die
@@ -147,7 +147,7 @@ Use-Case-Points in Personenaufwand. Im ersten Schritt werden die Systemschnittst
 drei Klassen geteilt: einfache Systemschnittstellen, mittelkomplexe Systemschnittstellen und
 komplexe Systemschnittstellen. Als nächstes werden die Anwendungsfälle nach
 Komplexitätsstufen gewichtet (Unadjusted Use Case Weight (UCCW)).
-![Alternativer Text](/pfad/zum/Abbildung_9.7_Aufwand.png)
+![Alternativer Text](_images/praplanung/Abbildung_9.7_Aufwand.png)
 Der dritte Schritt in der Use-Case-Point-Methode ist die Justierung der Systemgröße in
 Reihen Use-Case-Points durch die65 Produkteinflussfaktoren. TCF = 0,65 + [0,01 x TF] TF
 = Summe der Gewichtung der produktbezogenen Einflussfaktoren. ECF = 1,35 - [0,02 x
