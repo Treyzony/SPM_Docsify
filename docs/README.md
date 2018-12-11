@@ -1,3 +1,13 @@
-Ausarbeitung
+#Notizen zu der Ausarbwitung
 
-Eine Ausarbeitung über das Thema "Erfolgreiches Managen eines IT-Projektes"
+Alle Bilder sind aus den Büchern und Links in den Quellen.
+
+Thema | von wem bearbeitet
+---|---
+Marketing | Yannic Döll
+Qualität | Sebastian Peltner
+Prä-Planung | Alexander Nolting und Karl Neitmann
+Planung aktuell zum Projekt | Waldemar Reger
+Information | Jonas vom Braucke
+Metaprojekt und Technuken | Nick Kötter
+Fazit und Abschluss | Nick Kötter
