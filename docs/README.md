@@ -9,5 +9,5 @@ Qualität | Sebastian Peltner
 Prä-Planung | Alexander Nolting und Karl Neitmann
 Planung aktuell zum Projekt | Waldemar Reger
 Information | Jonas vom Braucke
-Metaprojekt und Technuken | Nick Kötter
+Metaprojekt und Techniken | Nick Kötter
 Fazit und Abschluss | Nick Kötter
