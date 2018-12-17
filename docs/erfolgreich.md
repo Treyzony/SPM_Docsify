@@ -1,5 +1,5 @@
 ﻿# IT-Projekte erfolgreich managen
- Als Grundsätzliches Lösungskonzept sollten man schon von Anfang an diese
+Als Grundsätzliches Lösungskonzept sollten man schon von Anfang an diese
 Gründe fürs Scheitern und Risiken in der Planung bedenken. Als Schutz
 ist eine genaue Kenntnis und Prüfung des Projekts schon in der Anfangsphase
 nötig. Dazu muss zuerst die Aufgabenstellung geklärt werden.
@@ -73,6 +73,6 @@ Zuletzt komm dann der Projektabschlussprozess.
 Hier erfolgt die Projektabnahme, die Projektabschlussanalyse,
 der Projektabschlussbericht, Erfahrungssicherung, Abschlusspräsenationen,
 die Projektauflösung und es werden die Abschluss Ziele erfüllt.
-Bei den Zielen handelt es sich um das erfüllen der ordnungsgemäßen
+Bei den Zielen handelt es sich um das Erfüllen der ordnungsgemäßen
 Dokumentation, die Akzeptanz der Umsetzung durch alle Beteiligten und
 das Lernen aus dem Projektverlauf.
