@@ -1,4 +1,4 @@
-#Notizen zu der Ausarbwitung
+# Notizen zu der Ausarbeitung
 
 Alle Bilder sind aus den Büchern und Links in den Quellen.
 
