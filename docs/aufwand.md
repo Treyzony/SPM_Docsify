@@ -1,7 +1,7 @@
 ﻿# Aufwandsabschätzung
  
-Zur Erstellung eines Kostenplans und zur Wirtschaftlichen Analyse ist es erforderlich, das
-man den Aufwand seines Projekts abschätzt. Im großen Ganzen lässt sich sagen, das sich die
+Zur Erstellung eines Kostenplans und zur Wirtschaftlichen Analyse ist es erforderlich, dass
+man den Aufwand seines Projekts abschätzt. Im großen Ganzen lässt sich sagen, dass sich die
 Projektkosten aus Personalkosten + Hardwarekosten + Softwarekosten + Overhead-Kosten
 zusammensetzten. Des Weiteren ist es für die Kostenübersicht wichtig sich darüber klar zu
 sein, welche Art von Projekt man hat. Projekte unterscheiden sich in: denen die Kosten nach
@@ -14,7 +14,7 @@ Festpreisangebot. Da immer mehr Projekte nach außen vergeben werden, ist es wic
 sich selbst eine Aufwandsabschätzung zu machen, um den entsprechenden Preis
 einzuschätzen.
 
-Ein dritter Zweck ist, der das die minimale Projektlaufzeit ermittelt werden kann. Das kann
+Ein dritter Zweck ist, dass die minimale Projektlaufzeit ermittelt werden kann. Das kann
 wichtig sein da, wenn ein Produkt nicht bis zu einem bestimmten Termin zur Verfügung
 steht, verliert es an Wert. Wenn man also schon früh sieht, dass ein Produkt nicht rechtzeitig
 fertig werden würde, kann man Kosten und Zeit sparen, indem man es nicht realisiert.
@@ -27,17 +27,17 @@ man den Projektfortschritt messen kann. So erhält man beim Vergleich von zwei a
 
 Jedoch bevor das eigentliche Schätzungsverfahren beginnt, gilt es nahezu unzählige Faktoren
 zu beachten. Zu diesen Faktoren zählen selbst Dinge wie den Biorhythmus der Mitarbeiter
-oder die zur Verfügung stehenden Werkzeugausstattung. Des Weiteren gibt es verschiedene
+oder die zur Verfügung stehenden Werkzeugausstattung. Des weiteren gibt es verschiedene
 Projekttypen: Prototypprojekte, Entwicklungsprojekte, Weiterentwicklungsprojekte,
 Wartungsprojekte, Sanierungsprojekte, Installationsprojekte, Migrationsprojekte und
 Integrationsprojekte, die es zu beachten gibt. Die Zuordnung in eines von diesen genannten
 IT-Projekten ist für die Aufwandsabschätzung unabdingbar.
 
 -Prototypprojekte sind Entwicklungsprojekte, bei denen das Ziel der Entwicklung nicht
-bekannt ist. Daher es nahezu nicht möglich deren Aufwand Abzuschätzen.
+bekannt ist. Daher es nahezu nicht möglich deren Aufwand abzuschätzen.
 
 -Entwicklungsprojekte sind im Gegensatz zu Prototypenprojekten spezifiziert. Da vorher
-beschreiben wird was gefordert ist, ist es leichter den Aufwand zu identifizieren.
+beschrieben wird was gefordert ist, ist es leichter den Aufwand zu identifizieren.
 
 -Weiterentwicklungsprojekte gehen von einem bestehenden IT-System aus. Hier werden
 zusätzliche Funktionen in das bestehende System eingebaut. Es ist durchaus möglich hier
@@ -55,7 +55,7 @@ werden anhand des geschätzten Codes beurteilt. In der Praxis ist dies nicht imm
 einfach, da unerwartete Fehler im System auftreten können.
 
 -Migrationsprojekte sind hingegen zeitlich und kostenmäßig begrenzte Anstrengungen,
-bestehende IT-Systeme in eine andre technische Umgebung zu versetzen. Beispielsweise
+bestehende IT-Systeme in eine andere technische Umgebung zu versetzen. Beispielsweise
 wird die Programmiersprache in einem System getauscht. Der Aufwand wird ähnlich wie
 beim Sanierungsprojekt in Code Zeilen geschätzt.
 
@@ -68,7 +68,7 @@ Testaufwand haben.
 
 -In Installationsprojekten werden Standart-IT-Produkte in einen Anwenderbetrieb
 organisatorisch und technisch eingeführt. Hierbei lässt sich der Aufwand sehr gut
-abschätzen.Ein weiterer Faktor ist die Projektarbeitsbedingung. Das bedeutet inwieweit Büroräume,
+abschätzen. Ein weiterer Faktor ist die Projektarbeitsbedingung. Das bedeutet inwieweit Büroräume,
 Material etc. benötigt wird oder schon zur Verfügung steht. So benötigt man keine
 Zeit/Kosten, wenn alle Mittel noch vom letzten Projekt zur Verfügung stehen.
 Der nächste Faktor sind die Projektwerkzeuge, sie spielen eine entscheidende Rolle, vor
@@ -78,9 +78,9 @@ umso schneller kann man damit arbeiten.
 
 Der jedoch entschiedenste Faktor ist das Personal. Die Schwierigkeit liegt allerdings in der
 Produktivitätsmessung eines Mitarbeiters. Die Produktivität setzt sich wie folgt zusammen
-Produktivität = (Quantität x Komplexität x Qualität) / Aufwand. Ein Beispiel: Ein Projekt
-das 20 Personenmonate gekostet hat und ein Ergebnis von 10 000 Anweisungen mit einem
-Komplexitätsfaktor von 1,2 und einem Qualitätsfaktor von 0,9 hat, gleich 540 Anweisungen
+Produktivität = (Quantität x Komplexität x Qualität) / Aufwand. Ein Beispiel: Ein Projekt,
+dass 20 Personenmonate gekostet hat und ein Ergebnis von 10 000 Anweisungen mit einem
+Komplexitätsfaktor von 1,2 und einem Qualitätsfaktor von 0,9 hat, ergibt 540 Anweisungen
 pro Personenmonat. Das Problem bei einer solchen Berechnung ist, wie bestimmt man einen
 Komplexitätsfaktor oder einen Qualitätsfaktor? Hier liegt das Problem bei dieser Art der
 Aufwandsabschätzung, diese Werte sind reine Ermessenssache.
@@ -93,7 +93,7 @@ Messung mit einbezogen werden müssen.
 ![Alternativ Text](_images/praplanung/Tabelle_9.1_Aufwand.png)
 
 Festzuhalten ist das die Messung einer Person gar nicht so einfach zu erfassen ist, es hängt
-zum einen von der geforderten Tätigkeit aber auch von der Person selber ab.
+zum einen von der geforderten Tätigkeit aber auch von der Person selbst ab.
 Was bleibt, ist die Frage, wie man die Größe eines IT-Vorhabens misst. Um eine
 Produktgrößenmessung zu machen, kann man unterschiedlich vorgeben. Man kann nach
 Codezeile, Codeanweisungen, Function Points, Data-Points, Object-points, Use-Case-Points
@@ -104,7 +104,7 @@ werden. Es wurde eine folgende Formel aufgestellt: Größe (in Zeilen) = (Aufwan
 (Zeit)^4/3 x Produktivität. Diese Methode ist jedoch vergleichsweise sehr "alt" und ungenau
 da die Produktivität wieder ein Faktor ist, der persönlich zu bewerten ist.
 
-Die Schätzung nach Codeanweisungen entstand dadurch das mehrere Projekte angeschaut
+Die Schätzung nach Codeanweisungen entstand dadurch, das mehrere Projekte angeschaut
 wurden. Aus diesen Projekten wurden die am Ende vom Projekt ausgelieferten Anweisungen
 gezählt - Kilo delivered source instructions = KDSI. Diese KDSI werden benötigt, um den
 Aufwand des Projekts abzuschätzen. Es entstanden mehrere Formeln wie Aufwand = 2,4
@@ -135,8 +135,8 @@ Datenentitäten, die Beziehung der Datenentitäten untereinander und die Sichten
 Datenentitäten und der Großteil ihrer Attribute. Es bleibt nur übrig, diese sichtbaren
 Datenelemente auf Grund ihrer Komplexität zu Gewichten. Diese Gewichtung ist aber nur
 aufgeteilt in 2=niedrig, 4=mittel oder 8=hoch. Dies ist wesentlich besser als die vorher
-genannten Schätzungsmethoden. So Die Data-Points des Datenmodells werden als
-Information-Points, die der Benutzeroberfläche als Communications-Points bezeichnet.
+genannten Schätzungsmethoden. Die Data-Points des Datenmodells werden als
+Information-Points angesehen und die Benutzeroberfläche als Communications-Points.
 Diese können wir folgt berechnet werden Informations-Points = Summe der
 Entitäten[Attribute + (Schlüssel x 4) + (Beziehung x 2)] und Communication-Points =
 Summe von Sicht [Attribute + (2,4,8) +(Beziehungen)].
@@ -149,16 +149,18 @@ Klassenassoziation = 2.
 In den Sequenzdiagrammen wiegt: jede Nachricht = 2, jeder Parameter = 1, jeder Sender = 2,
 jeder potenzielle Empfänger = 2.
 (Abbildung 9.6 S.22 Aufwands.)
-In den use-Case-Diagrammen wiegt: jeder Online-Anwendungsfall = 2 x Anzahl der
+In den Use-Case-Diagrammen wiegt: jeder Online-Anwendungsfall = 2 x Anzahl der
 Ausgänge, jeder Batch-Anwendungsfall = 4 x Anzahl der Ausgänge, jeder
 Systemanwendungsfall = 8 x Anzahl der Ausgänge.
-Hinzu kommen eine Komplexitätsbewertung für jede Klasse, jede Nachricht und jeden
-Anwendungsfall, wonach ;
+Hinzu kommt eine Komplexitätsbewertung für jede Klasse, jede Nachricht und jeden
+Anwendungsfall, wonach sich;
 
 niedrige Komplexität = 75% der Object-points
 mittlere Komplexität = 100% der Object-points
 hohe Komplexität = 125% der Object-points
-ergeben. Schließlich folgt der Wiederverwendungsgrad. Die Object-Points von wiederverwendeten
+ergeben. 
+
+Schließlich folgt der Wiederverwendungsgrad. Die Object-Points von wiederverwendeten
 Klassen, Nachrichten und Anwendungsfällen werden nur mit dem Prozentanteil gezählt, mit
 dem das Element nicht wiederverwendet wird. Zum Beispiel wiegt eine Klasse mit 20
 Object-Points, die zu 60% wiederverwendet wird(d.h. nur 40% des Codes kommen neu
@@ -178,10 +180,10 @@ Komplexitätsstufen gewichtet (Unadjusted Use Case Weight (UCCW)).
 ![Alternativer Text](_images/praplanung/Abbildung_9.7_Aufwand.png)
 
 Der dritte Schritt in der Use-Case-Point-Methode ist die Justierung der Systemgröße in
-Reihen Use-Case-Points durch die65 Produkteinflussfaktoren. TCF = 0,65 + [0,01 x TF] TF
+Reihen Use-Case-Points durch die 65 Produkteinflussfaktoren. TCF = 0,65 + [0,01 x TF] TF
 = Summe der Gewichtung der produktbezogenen Einflussfaktoren. ECF = 1,35 - [0,02 x
 EF)] EF = Summe der Gewichte der projektbezogenen Einflussfaktoren. UCP = UUCP x
-TCF x ECF. UUCP = rohe Use-Case-Points. Am Ende wird alles zusammen gerechnet.
+TCF x ECF. UUCP = rohe Use-Case-Points. Am Ende wird alles zusammengerechnet.
 Aufwand = UCP x Produktivität. Produktivität = Arbeitsstunde pro Use-Case-Point. Use-
 Case-Points werden gezählt, wenn die Use-Cases in dem Anforderungsdokument spezifiziert
 sind.
