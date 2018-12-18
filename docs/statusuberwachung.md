@@ -14,7 +14,7 @@ Wichtige zu beachtende Faktoren sind: Zeit, Ressourcennutzung, Kosten und schwer
 
 Formen sind sowohl das Einzelprojektcontrolling, welches als Standard gilt, als auch das Multiprojektcontrolling, bei welchem die Gegenseitigen Projektabhängigkeiten beachtet werden müssen. In beiden Fällen wir zum einen ein Basisplan für das „Soll Ziel“ und zum anderen jeweils ein aktueller Plan für jedes aktuelle „Soll Ziel“ gefertigt. Damit ist als eine dritte Dimension in der Projektarbeit zu sehen, welche als Quellen Arbeitszeitaufzeichungen, Bestellungen, Rechnungen, Protokolle, Projektlogbücher und andere Projektdokumente nutzt. 
 
-![Alternativer Text](_images/information/abbildung_1_statusueberwachung.png)
+![Alternativer Text](_images/information/abbildung_1_statusueberwachung.jpg)
 
 Die Mitarbeiter sollen Eigenleistung selbst aufschreiben, da so in geringerem Maß ein Überwachungsgefühl entsteht. 
 
@@ -30,6 +30,7 @@ Zur Negativabgrenzung wird eine Negativliste genutzt.
 * Fremd- & Investitionskosten 
 
 ![Alternativer Text](_images/information/abbildung_2_statusueberwachung.png)
+
 Fortschrittsberichte sollten für Kostenentwicklung, Motivation und Zeitplanung genutzt werden.
 
 #### Projekt-Risikomanagement 
