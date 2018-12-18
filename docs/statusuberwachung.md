@@ -6,7 +6,7 @@ Es können diverse Schwierigkeiten bei IT-Projekten durch, die Vielzahl der Bete
 Es gilt eine Einordnung in die Unternehmensstrategie und in die Informationsaufbereitung zu finden. Dabei kann es eine Unterstützung der Projektleitung bieten, aber auch außerhalb des eigentlichen Projekts und nicht weisungsbefugt wirken. 
 Wichtige zu beachtende Faktoren sind: Zeit, Ressourcennutzung, Kosten und schwer beschreibbare Leistungen. 
 Formen sind sowohl das Einzelprojektcontrolling, welches als Standard gilt, als auch das Multiprojektcontrolling, bei welchem die Gegenseitigen Projektabhängigkeiten beachtet werden müssen. In beiden Fällen wir zum einen ein Basisplan für das „Soll Ziel“ und zum anderen jeweils ein aktueller Plan für jedes aktuelle „Soll Ziel“ gefertigt. Damit ist als eine dritte Dimension in der Projektarbeit zu sehen, welche als Quellen Arbeitszeitaufzeichungen, Bestellungen, Rechnungen, Protokolle, Projektlogbücher und andere Projektdokumente nutzt. 
-![Alternativer Text](_images/praplanung/abbildung_1_statusueberwachung.png)
+![Alternativer Text](_images/information/abbildung_1_statusueberwachung.png)
 Die Mitarbeiter sollen Eigenleistung selbst aufschreiben, da so in geringerem Maß ein Überwachungsgefühl entsteht. 
 Zur Negativabgrenzung wird eine Negativliste genutzt. 
 #### Projektsteuerung: 
@@ -16,14 +16,14 @@ Zur Negativabgrenzung wird eine Negativliste genutzt.
 * Personal-, Ressourcen(Maschinen)
 * Sach(Material)
 * Fremd- & Investitionskosten 
-![Alternativer Text](_images/praplanung/abbildung_2_statusueberwachung.png)
+![Alternativer Text](_images/information/abbildung_2_statusueberwachung.png)
 Fortschrittsberichte sollten für Kostenentwicklung, Motivation und Zeitplanung genutzt werden. 
 #### Projekt-Risikomanagement 
 Das Projekt-Risikomanagement beschäftigt sich mit Risiken und Chancen in der Entwicklung. Es soll das Erkennen, Bewerten, so wie die schnelle Findung von Maßnahmen ermöglichen. Daher sind die Punkte der Risikomanagementplanung und Risikoidentifikation unverzichtbar und müssen mit einer qualitativen Risikoanalyse, welche die Auswirkung der Risiken auf Ziele darstellt, aber auch quantitativen Risikoanalyse, welche die Wahrscheinlichkeiten, Auswirkungen und Wirkung der Risiken findet, verbunden werden. Die Planung zur Risikobewältigung soll zur Vermeidung von Risiken dienen und deren Auswirkungen beherrschen. Bei der Risikoüberwachung und Risikoverfolgung wird das Überwachen von Restrisiken und die Identifikation von neuen Risiken in den Vordergrund gestellt. In der Ausführung bedeutet dies Risikobewältigungspläne anzufertigen und Wirksamkeit zu Bewerten. 
 Das **Claim Management** kümmert sich darum Ansprüche des Kunden durch Verträge zu bearbeiten.  
 **Value Management EVM:** Soll Arbeit = *Planned Value*, zum Zeitpunkt Ist = *Earned Value* & Kosten tatsächlich = *Actual Cost* 
 Zyklen der Projektsteuerung: 
-![Alternativer Text](_images/praplanung/abbildung_3_statusueberwachung.png)
+![Alternativer Text](_images/information/abbildung_3_statusueberwachung.png)
 #### Projektsteuerung 
 Sie umfasst: 
 * Abstimmung Unternehmensstrategie, 
