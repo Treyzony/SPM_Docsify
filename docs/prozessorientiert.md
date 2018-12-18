@@ -158,9 +158,8 @@ Zum Abschluss noch einmal zu den Berichten:
 	-Teamstatusbericht
 
 Damit kommen wir zum Ende der Prä-Planung. Bevor es um die Planung selbst
-geht, hier noch die Grundprinzipien des Projektmanagements. Zum bedenken
-des Gesamtablaufs in der eben beschriebenen Prä-Planung und der kommenden
-Planung.
+geht, hier noch die Grundprinzipien des Projektmanagements.
+
 Die Grundprinzipien des Projektmanagements:
 	-geschäftliche Rechtfertigung für das Projekt
 	-Einsatz und Bildung von Erfahrungen
