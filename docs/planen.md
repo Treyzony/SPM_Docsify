@@ -1,11 +1,11 @@
 ﻿# IT-Projekte strukturieren und planen
  
-Zum Start eines jedes IT-Projekts ist es wichtig, dass alle Teilnehmer Wissen was zu tun ist,
+Zum Start eines jedes IT-Projekts ist es wichtig, dass alle Teilnehmer wissen was zu tun ist,
 deshalb gibt es die Projektplanung.
 
-Man plant um einen so genannten "Projektfahrpläne" zu erstellen. In diesem Fahrplan
+Man plant einen so genannten "Projektfahrpläne" zu erstellen. In diesem Fahrplan
 werden Fragen beantwortet wie etwa: Wie lange wird es dauern, bis wir über diverse
-Zwischenstationen das Produkt erreicht haben? Da man vorher nie zu 100% voraussagen
+Zwischenstationen das Endprodukt erreicht haben? Da man vorher nie zu 100% voraussagen
 kann, wie der beste Ablauf eines Projektes ist, ist eine Planung nie einfach und vermutlich
 auch nie richtig. Jedoch ist es auch nicht das Ziel eines Projektplans richtig zu sein. Er sollte
 möglichst richtig sein damit die Teilnehmer sich dort dran orientieren können. Wichtig bei
@@ -21,7 +21,7 @@ frühe Fehler zu erkennen.
 
 ![Alternativer Text](_images/praplanung/Abbildung_6.1_IT_planen.png)
 
-Aus der Praxis lässt sich festhalten, dass wenn ein Projekt mit Aufwand geplant wurde, lässt
+Aus der Praxis lässt sich festhalten, dass wenn ein Projekt mit Aufwand geplant wurde, lässt sich
 eine drastische Zeiteinsparung in der Abarbeitung des Projekts finden.
 
 Damit die Planung eines Projektes nicht planlos erfolgt, gibt es Grundsätze, an denen sich orientiert
@@ -44,11 +44,11 @@ anpassen muss, kann man sagen, dass die Projektplanung ein dynamischer Prozess i
 In der Praxis ist eine Projektplanung fester Bestandteil eines Projekts, weshalb dies auch
 entlohnt werden will. Da aber in der Realität meist keine Zeit dafür ist und der Auftraggeber
 Ergebnisse sehen will, ist man gezwungen die Projektplanung schlicht und kurz zu halten.
-Aus diesem Grund entstand auch der Satz Zitat: " Ordnung kostet Geld, aber Unordnung
-noch viel mehr!" von Heinrich Gerber.
+Aus diesem Grund entstand auch der Satz von Heinrich Gerber "Ordnung kostet Geld, aber Unordnung
+noch viel mehr!".
 
 Um ein Projekt richtig zu strukturieren ist es wichtig sich mit seinem gewünschten Produkt
-vertraut zu machen. Da sich die Planung von einem Projekt immer nach dem Produkt richtet kann
+vertraut zu machen. Da sich die Planung von einem Projekt immer nach dem Produkt richtet, kann
 man, um sein Produkt einzuordnen sich am Produktlebenszyklus orientieren.
 Damit die Struktur eines Projekts richtig gegliedert wird bietet es sich an das Projekt in
 verschiedene Phasen einzuteilen. Dabei kann es grobe Oberphasen geben die kleinere
@@ -68,8 +68,8 @@ fallen bei jedem Projekt nahezu identische Aufgaben im Projektmanagement an.
 
 ![Alternativer Text](_images/praplanung/Abbildung_6.3_IT_planen.png)
 
-Dabei befassen sich die einzelnen mit Stages (gelb) mit verschiedenen Fragen:
-- Idee = ist die Idee brauchbar
+Dabei befassen sich die einzelnen Stages (gelb) mit verschiedenen Fragen:
+- Idee = Ist die Idee brauchbar
 - Prae-Launch = Sollen wir oder sollen wir nicht?
 - Launch = Wie werden wir das Projekt abwickeln?
 - Execute = Wie bringen wir das geplante Projekt zum Laufen bzw. wie halten wir es am
@@ -80,10 +80,10 @@ Jedoch ist bei diesem Modell anzumerken, das in der Praxis Schwierigkeiten bei d
 Abgrenzung dieser Phasen auftreten können. Allgemein lässt sich sagen das bei Benutzung
 dieses Modells auf hohe Flexibilität zu achten ist.
 
-Bei jedem Projekt muss die Projektleitung, als Erstes die Frage beantworten, welches
+Bei jedem Projekt muss die Projektleitung, als erstes die Frage beantworten, welches
 Phasenmodell benutzt werden soll. Da dies immer vom zu erzielenden Produkt abhängt, ist
 diese Frage nicht immer leicht zu beantworten. Um an diese Frage welches Modell benutzt
-werden soll heranzugehen, bieten sich drei Wege. Als erstes ist es möglich die Antwort aus
+werden soll heranzugehen, bieten sich drei Wege an. Als erstes ist es möglich die Antwort aus
 der Literatur herauszulesen. Es gibt eine ganze Menge an "typischen" Modellen, die sich in verschiedenen Branchen etabliert haben. Als zweites kann es Vorgaben vom Unternehmen oder Auftraggeber geben, die ein bestimmtes Modell verlangen. Wenn einen die beiden zuerst genannten Methoden nicht weiterbringen gibt es noch den gesunden
 Menschenverstand, der einen dabei hilft sein Projekt richtig zu modellieren. In der Praxis
 wird die erste Methode mit der Dritten vermischt, so entsteht ein Plan mit Struktur und
@@ -111,7 +111,7 @@ sollte zu Beginn der Projektverlauf strukturiert werden, man teilt die Aufgaben 
 nach top-down oder nach dem bottom-up Prinzip auf. Beim top-down Prinzip werden
 mehrere Ebenen erstellt und diese vom Ganzen (oben) nach Details (unten) gegliedert. Das
 bottom-up Prinzip sammelt zuerst alle wichtigen Aufgaben. Anschließend werden sie
-selektiert, geordnet und in unter Oberpunkten zusammengefasst.
+selektiert, geordnet und in Unter bzw. Oberpunkten zusammengefasst.
 
 Nachdem die Struktur festgelegt ist, bildet man Arbeitspakete. Hierbei wird lediglich
 bestimmt welche Aufgaben zusammengehören und wo sie sich abgrenzen. Eine Darstellung
@@ -139,7 +139,7 @@ Gestaltung lässt sich in einem Diagramm darstellen.
 Ein weiteres Thema des Planens von Projekten ist das Puffermanagement. Es ist eins der
 heikelsten Themen und wird häufig aus Zeitmangel ignoriert. Dazu kommt das es schwer ist
 Pufferzeit zu verkaufen, da kein Auftraggeber hören will das er Zeit zu bezahlen hat die als
-Puffer genutzt wird. Um also mögliche zeitliche Schwierigkeiten vorzubeugen hat man die
+Puffer genutzt wird. Um also mögliche zeitliche Schwierigkeiten vorzubeugen hat man 
 zum einen die Möglichkeit von Anfang an mehr Zeit einzuplanen oder sich eben eine
 Pufferzeit mit einzuteilen. Diese einzuplanende Pufferzeit hängt natürlich vom Umfang des
 Projektes ab. Aus verschiedenen Erfahrungen in der Praxis sagt man das die Pufferzeit eine
@@ -149,13 +149,13 @@ Größenordnung von etwa 30% erreicht. Die bisherige Projektplanung wird hier ei
 
 Der Ablauf- und Terminplan, Ressourcenplan und der Kostenplan sind Pläne, die man nicht
 zu 100% vorhersagen kann da hier die meisten Variablen auftreten. Im Ressourcenplan
-werden wie erwartet alle benötigen Ressourcen, die für die Realisierung des Projekts
+werden wie erwartet alle benötigten Ressourcen, die für die Realisierung des Projekts
 erforderlich sind aufgeführt. Hier werden Arbeitsmittel wie Computer, Material und Räume
 sowie aber auch das benötigte Personal aufgeführt. Bei dieser Planung ist stets darauf zu
 achten, dass die geforderten Ressourcen auch realistisch im Sinne der Kosten sind.
 
 Die größte Variable im Ressourcenplan ist der Mensch selbst. Bei einem Computer kann
-man davon ausgeben das alle dieselbe Leistung haben. Beim Menschen ist es anders, hier ist
+man davon ausgehen das alle die selbe Leistung haben. Beim Menschen ist es anders, hier ist
 darauf zu achten das die Menschen nicht überfordert werden. Darum muss diese Planung
 sehr gewissenhaft ausgeführt werden.
 
@@ -179,6 +179,6 @@ Risiken bewertet, kann man dafür Maßnahmen oder Notfallpläne entwerfen.
 
 Bei der Planung eines IT-Projektes gibt es aus der Praxis einen einfachen Tipp: KISS (keep it
 simple, stupid). Wenn man seine Planung einfach hält kann das mehrere Vorteile bieten.
-Zum einen vereinfacht eine einfachere Planung, dass Verständnis für den gesamten Plan. Des
-Weiteren ist dieser leichter anpassbar. Jedoch erfordern größere Projekte eine komplexere
+Zum einen vereinfacht eine einfachere Planung, das Verständnis für den gesamten Plan. Des
+weiteren ist dieser leichter anpassbar. Jedoch erfordern größere Projekte eine komplexere
 Planung.
